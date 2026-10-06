@@ -21,7 +21,17 @@ Every engagement starts with a paid assessment: I read the codebase and return
 every blocker, the effort behind each one, and a fixed price per module. Useful
 on its own even if you stop there.
 
-### Reference implementation
+### Things you can look at
+
+**[Kelvin Supply](https://kelvin-supply.netlify.app)** ·
+[source](https://github.com/ashish168/storefront) — a trade storefront for
+architectural lighting. Specification filtering on colour temperature, beam
+angle and ingress rating; trade accounts, cart, checkout, order history.
+
+Colour temperature is rendered as colour, and each product is drawn in section
+from its own data — beam at its real angle, filled at its real temperature.
+Two products differing only in Kelvin look obviously different, which they
+would not in a photograph.
 
 **[telemetry-pipeline](https://github.com/ashish168/telemetry-pipeline)** — an
 event-driven pipeline for building sensor data. Ingest, windowed anomaly
