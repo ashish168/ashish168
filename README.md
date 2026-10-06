@@ -23,6 +23,16 @@ on its own even if you stop there.
 
 ### Things you can look at
 
+**[Estate operations console](https://ashish-ops-console.netlify.app)** ·
+[source](https://github.com/ashish168/ops-console) — floor plans with devices
+plotted by position and coloured by status, alert handling, and plant
+telemetry across a two-building estate. Angular with standalone components and
+signals; 142 kB and no charting library.
+
+The plan is the point. "FCU 1.4 is 6.4°C above setpoint" says there is a
+problem; the plan says it is the north-east meeting room, on the same riser as
+the unit that failed last month.
+
 **[Kelvin Supply](https://kelvin-supply.netlify.app)** ·
 [source](https://github.com/ashish168/storefront) — a trade storefront for
 architectural lighting. Specification filtering on colour temperature, beam
