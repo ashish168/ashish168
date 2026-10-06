@@ -1,19 +1,24 @@
 ## Ashish Aggarwal
 
-I modernise enterprise systems that have outlived their stack, and I sell the work
-as **fixed-price modules** — each with written acceptance criteria, a date, and a
-number that cannot grow.
+Software architect and builder. I design and build systems, and modernise the
+ones that have outlived their stack — sold as **fixed-price modules**, each with
+written acceptance criteria, a date, and a number that cannot grow.
 
 Fifteen years of enterprise delivery. Most of it in **building management and
 commercial real estate**: HVAC and metering telemetry, building operations,
-and the investment modelling behind the buildings themselves.
+workflow platforms, and the investment modelling behind the buildings
+themselves.
+
+The specialism is the problem and the sector, not the language. Java,
+TypeScript, Node, Python, Go, Angular, React — the work decides the stack.
 
 ### What I take on
 
 | | |
 |---|---|
-| **Backend** | Spring Boot 2 → 3, Java 8/11 → 21, monolith decomposition |
-| **Frontend** | AngularJS → Angular 17+, JSP/Struts → SPA |
+| **Architecture** | Target design, sequenced migration plans, service decomposition |
+| **New builds** | Greenfield where the scope is defined, delivered module by module |
+| **Modernization** | Framework and runtime upgrades, monolith decomposition, front-end rewrites |
 | **Cloud** | On-prem → AWS. Terraform, containers, CI/CD, cutover runbooks |
 | **Performance** | Named endpoints to an agreed p95, measured before and after |
 
